@@ -24,4 +24,10 @@ Now created a react app using typescript. There is REMIX_DEPLOYMENT.md file in f
 
 <img width="582" height="883" alt="Screenshot 2025-10-17 094917" src="https://github.com/user-attachments/assets/61568de3-473f-4db8-83d6-fcb82eb986f0" />
 
+<img width="1355" height="578" alt="Screenshot 2025-10-17 162919" src="https://github.com/user-attachments/assets/6514e2d3-7a09-469e-b6a9-a4cbb5a0820e" />
 
+<img width="1686" height="554" alt="Screenshot 2025-10-17 163220" src="https://github.com/user-attachments/assets/6c883ee7-3db1-45d0-af09-bfb054d6f03e" />
+
+<img width="1675" height="934" alt="Screenshot 2025-10-17 163307" src="https://github.com/user-attachments/assets/f4f5ce56-6965-4430-a491-f6bef7ace85c" />
+
+<img width="1681" height="828" alt="Screenshot 2025-10-17 163326" src="https://github.com/user-attachments/assets/de6340f5-1412-41a0-97da-e3de661c11bf" />
