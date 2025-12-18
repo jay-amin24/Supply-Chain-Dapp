@@ -19,3 +19,6 @@ Now created a react app using typescript. There is REMIX_DEPLOYMENT.md file in f
 - MetaMask (or another Ethereum wallet) for interacting with the contract
 - Ethereum test network
 
+<img width="582" height="883" alt="Screenshot 2025-10-17 094917" src="https://github.com/user-attachments/assets/61568de3-473f-4db8-83d6-fcb82eb986f0" />
+
+
